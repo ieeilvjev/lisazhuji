@@ -1,4 +1,4 @@
-# 2024 LisaHost(丽萨主机) 评测优惠码
+# 2025 LisaHost(丽萨主机) 评测优惠码
 
 ## LisaHost 介绍
 LisaHost 提供了基于 KVM 架构的香港 ISP 类原生 IP 主机，采用 NVMe SSD 硬盘，提供中国大陆直连线路，去程采用电信CN2、联通AS9929、移动CMIN2精品线路，回程三网CMI，IP纯净，能解锁香港本土服务和多种流媒体。
